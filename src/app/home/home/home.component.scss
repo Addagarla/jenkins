@@ -1,0 +1,20 @@
+// .container {
+//     width: 1366px;
+//     max-height: auto;
+//     display: contents;
+//     overflow: hidden;
+// }
+
+img {
+    width: 100%;
+    max-height: auto;
+    background-size: contain;
+    overflow: hidden;
+}
+
+.price {
+    padding: 56px 138px 68px 115px;
+    margin: 1px 0;
+    background-color: #fbfbfb;
+    overflow: hidden;
+}
